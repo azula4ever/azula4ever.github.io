@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://azula4ever.github.io/centos8/install/</loc>
+     <lastmod>2020-04-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://azula4ever.github.io/centos8/ntp_ssh-server/</loc>
+     <lastmod>2020-04-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://azula4ever.github.io/centos7/install/</loc>
+     <lastmod>2020-04-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://azula4ever.github.io/centos7/ntp_ssh-server/</loc>
+     <lastmod>2020-04-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
